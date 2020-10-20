@@ -40,12 +40,12 @@ Why do we distinguish between primary and secondary sources?
 ### Tip 2: Know what you are searching
 There is no perfect database or catalog containing all that you might need.
 
-### Tip 2: Use strategic search terms
+### Tip 3: Use strategic search terms
 Keyword searching vs. subject searching
 
-### Tip 3: Search for both primary and secondary sources
+### Tip 4: Search for both primary and secondary sources
 
-### Tip 4: Find the best databases for your project
+### Tip 5: Find the best databases for your project
 See course research guide.
 
 
